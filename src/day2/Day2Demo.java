@@ -18,5 +18,7 @@ public class Day2Demo {
 	
 	
 	*/
+	
+	String name = "John";
 
 }
