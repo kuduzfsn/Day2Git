@@ -20,5 +20,7 @@ public class Day2Demo {
 	*/
 	
 	String name = "John";
+	
+	/// group work updateds
 
 }
