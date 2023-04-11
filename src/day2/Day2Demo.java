@@ -22,5 +22,10 @@ public class Day2Demo {
 	String name = "John";
 	
 	/// group work updateds
-
+	
+	int age = 10;
+	
 }
+
+
+// Group work
